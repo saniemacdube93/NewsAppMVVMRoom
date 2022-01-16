@@ -1,7 +1,5 @@
-package com.androiddevs.mvvmnewsapp.ui
+package com.androiddevs.mvvmnewsapp.ui.models
 
-
-import com.google.gson.annotations.SerializedName
 
 data class NewsResponse(
     val status: String,
